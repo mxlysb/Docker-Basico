@@ -1,0 +1,23 @@
+{
+  "name": "Docker-Basico",
+  "version": "1.0.0",
+  "description": "Aprendendo a usar Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxlysb/Docker-Basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxlysb/Docker-Basico/issues"
+  },
+  "homepage": "https://github.com/mxlysb/Docker-Basico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
